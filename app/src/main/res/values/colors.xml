@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FF9800</color> <!-- Orange -->
+    <color name="primary_variant">#F57C00</color> <!-- Darker Orange -->
+    <color name="secondary">#FFC107</color> <!-- Amber -->
+    <color name="secondary_variant">#FFB300</color> <!-- Darker Amber -->
+    <color name="background">#FFFFFF</color> <!-- White -->
+    <color name="surface">#FFFFFF</color> <!-- White -->
+    <color name="error">#D32F2F</color> <!-- Red -->
+    <color name="on_primary">#FFFFFF</color> <!-- White -->
+    <color name="on_secondary">#000000</color> <!-- Black -->
+    <color name="on_background">#000000</color> <!-- Black -->
+    <color name="on_surface">#000000</color> <!-- Black -->
+    <color name="on_error">#FFFFFF</color> <!-- White -->
+</resources>
